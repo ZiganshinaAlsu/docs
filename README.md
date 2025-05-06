@@ -8,3 +8,9 @@ https://app.qase.io/project/G10?suite=104&previewMode=side
 
 Добавлена выгрузка тестовый сценариев и QASE
 https://github.com/ZiganshinaAlsu/docs/blob/main/G10-2025-05-05.pdf
+
+Добавлена выгрузка дефектов
+https://github.com/ZiganshinaAlsu/docs/blob/main/Issues.xlsx
+
+Добавлен тестовый прогон
+https://github.com/ZiganshinaAlsu/docs/blob/main/G10-Test%2Brun%2B2025_05_05.pdf
